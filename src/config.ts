@@ -114,6 +114,12 @@ export const navBarConfig: NavBarConfig = {
 			external: false,
 			icon: "material-symbols:forum-outline-rounded",
 		},
+		{
+			name: "导航",
+			url: "/showcase/",
+			external: false,
+			icon: "material-symbols:explore-outline-rounded",
+		},
 	],
 };
 
